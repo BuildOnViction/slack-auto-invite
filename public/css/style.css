@@ -104,7 +104,6 @@ outline: none;
 }
 	.field:focus {
 	border: 1px solid #ffffff;
-	padding: 14px;
 	}
 @media only screen and (max-width: 480px)  {
 	.information{
